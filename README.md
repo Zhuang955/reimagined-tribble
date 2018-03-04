@@ -6,10 +6,10 @@
        * GitHub username 1: gloriahsieh
        * GitHub username 2: zhuang955
        * GitHub username 3: UWHenry
-       * GitHub username 4:
+       * GitHub username 4: jes98lhu
        * GitHub username 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? We complete this exercise on Mar 4th. 
+   * How long did it take your team to complete this exercise? Less than a hour.
 
 ## Table of Contents
 
