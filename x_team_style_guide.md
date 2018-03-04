@@ -19,17 +19,17 @@ We will use camel casing for the names of our variables, methods, and other pote
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+We will use /* for class headers and method headers, and // for in line commenting. For if statements, switch statements, while loops, for loops, and enhanced for loops, we use {} only when it contains more than 1 line of code.
 
 ### Examples
 
-* classes
-* fields
-* constructors
-* methods
+* /* classes */
+* // fields
+* /* constructors */
+* /* methods */
 * coding style (brackets, horizontal, and vertical spacing) for:
-  * if statements
-  * switch statement
-  * while loops
-  * for loops
-  * enhanced for loops
+  * if( condition ) statement;
+  * switch( condition ) { statement1; statement2; }
+  * while( condition )  loop statement;
+  * for( condition ) { loop statement1; loop statement2; }
+  * enhanced for( condition ) loop statement;
