@@ -1,10 +1,10 @@
 # X-Team 07 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Our team philosophy for style is that we will all follow the rules that we have decided on below and actively make sure that other team members are also following the rules as described at all times.  
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+We will use camel casing for the names of our variables, methods, and other potential names. 
 
 ### Examples
 * interfaces
