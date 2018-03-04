@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 07 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -21,7 +21,7 @@ If a team member has a preference for a specific task, they can be responsible f
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will text each other.
 
 
 
