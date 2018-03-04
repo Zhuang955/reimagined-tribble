@@ -9,7 +9,7 @@
        * GitHub username 4: jes98lhu
        * GitHub username 5:
    * When did you complete this exercise? We complete this exercise on Mar 4th. 
-   * How long did it take your team to complete this exercise? Less than a hour.
+   * How long did it take your team to complete this exercise? An hour
 
 ## Table of Contents
 
