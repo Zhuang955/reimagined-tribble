@@ -1,4 +1,4 @@
-# X-Team 07 Style Guide
+# 07-Team  Style Guide
 
 Our team philosophy for style is that we will all follow the rules that we have decided on below and actively make sure that other team members are also following the rules as described at all times.  
 
