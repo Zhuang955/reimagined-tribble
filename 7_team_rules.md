@@ -13,11 +13,11 @@ and missed deadlines.
 If a team member has a preference for a specific task, they can be responsible for that task. However, if no one has a preference or if the rest of the team has no specific preference for what task they want to complete, we will split the tasks among group members accordingly (evenly split the amount of work). 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+We will communicate using iMessage and have at least one face-to-face meeting before the deadline. 
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We will discuss it using iMessage and see if other people have better idea. 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
